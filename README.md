@@ -26,7 +26,13 @@ Output:
 
 ## Installation: A Spellbinding Ritual 🔮
 
-Make sure you have [Rust](https://www.rust-lang.org/tools/install) and [Git](https://git-scm.com/downloads) installed on your system.
+**From crates.io: (Recommended)**
+
+```bash
+cargo install hexbin
+```
+
+**From Source:**
 
 ```bash
 # Clone the repository from the digital grimoire:
